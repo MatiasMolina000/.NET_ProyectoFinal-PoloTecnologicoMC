@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\C#\Polo Tecnológito de Mina Clavero - Incluit\ProyectoFinal\.NET_ProyectoFinal-PoloTecnologicoMC\BlogDataBase\bin\Debug\BlogDataBase.dacpac
+C:\Users\Usuario\Desktop\C#\Polo Tecnológito de Mina Clavero - Incluit\ProyectoFinal\.NET_ProyectoFinal-PoloTecnologicoMC\BlogDataBase\bin\Debug\BlogDataBase.dll
+C:\Users\Usuario\Desktop\C#\Polo Tecnológito de Mina Clavero - Incluit\ProyectoFinal\.NET_ProyectoFinal-PoloTecnologicoMC\BlogDataBase\bin\Debug\BlogDataBase.pdb
+C:\Users\Usuario\Desktop\C#\Polo Tecnológito de Mina Clavero - Incluit\ProyectoFinal\.NET_ProyectoFinal-PoloTecnologicoMC\BlogDataBase\obj\Debug\BlogDataBase.sqlproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\C#\Polo Tecnológito de Mina Clavero - Incluit\ProyectoFinal\.NET_ProyectoFinal-PoloTecnologicoMC\BlogDataBase\obj\Debug\BlogDataBase.dll
+C:\Users\Usuario\Desktop\C#\Polo Tecnológito de Mina Clavero - Incluit\ProyectoFinal\.NET_ProyectoFinal-PoloTecnologicoMC\BlogDataBase\obj\Debug\BlogDataBase.pdb
