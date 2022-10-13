@@ -15,12 +15,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Usuario\Desktop\C#\Polo Tecnológito de Mina Clavero - Incluit\ProyectoFinal\.NET_ProyectoFinal-PoloTecnologicoMC\ProyectoFinal
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Usuario/Desktop/C\#/Polo Tecnológito de Mina Clavero - Incluit/ProyectoFinal/.NET_ProyectoFinal-PoloTecnologicoMC/ProyectoFinal/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Desktop/C\#/Polo Tecnológito de Mina Clavero - Incluit/ProyectoFinal/.NET_ProyectoFinal-PoloTecnologicoMC/ProyectoFinal/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Usuario/Desktop/C\#/Polo Tecnológito de Mina Clavero - Incluit/ProyectoFinal/.NET_ProyectoFinal-PoloTecnologicoMC/ProyectoFinal/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/C\#/Polo Tecnológito de Mina Clavero - Incluit/ProyectoFinal/.NET_ProyectoFinal-PoloTecnologicoMC/ProyectoFinal/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/Usuario/Desktop/C\#/Polo Tecnológito de Mina Clavero - Incluit/ProyectoFinal/.NET_ProyectoFinal-PoloTecnologicoMC/ProyectoFinal/Views/Home/Luky.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMdWt5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Usuario/Desktop/C\#/Polo Tecnológito de Mina Clavero - Incluit/ProyectoFinal/.NET_ProyectoFinal-PoloTecnologicoMC/ProyectoFinal/Views/Shared/Error.cshtml]
