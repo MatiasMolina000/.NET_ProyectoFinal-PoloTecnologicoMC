@@ -60,3 +60,9 @@ C:\Users\Usuario\Desktop\C#\Polo Tecnológito de Mina Clavero - Incluit\Proyecto
 C:\Users\Usuario\Desktop\C#\Polo Tecnológito de Mina Clavero - Incluit\ProyectoFinal\.NET_ProyectoFinal-PoloTecnologicoMC\ProyectoFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Usuario\Desktop\C#\Polo Tecnológito de Mina Clavero - Incluit\ProyectoFinal\.NET_ProyectoFinal-PoloTecnologicoMC\ProyectoFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Usuario\Desktop\C#\Polo Tecnológito de Mina Clavero - Incluit\ProyectoFinal\.NET_ProyectoFinal-PoloTecnologicoMC\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.csproj.CopyComplete
+C:\Users\Usuario\Desktop\C#\Polo Tecnológito de Mina Clavero - Incluit\ProyectoFinal\.NET_ProyectoFinal-PoloTecnologicoMC\ProyectoFinal\bin\Debug\net6.0\appsettings.Ruben.Development.json
+C:\Users\Usuario\Desktop\C#\Polo Tecnológito de Mina Clavero - Incluit\ProyectoFinal\.NET_ProyectoFinal-PoloTecnologicoMC\ProyectoFinal\bin\Debug\net6.0\appsettings.Ruben.json
+C:\Users\Usuario\Desktop\C#\Polo Tecnológito de Mina Clavero - Incluit\ProyectoFinal\.NET_ProyectoFinal-PoloTecnologicoMC\ProyectoFinal\bin\Debug\net6.0\appsettings.Eugenio.Development.json
+C:\Users\Usuario\Desktop\C#\Polo Tecnológito de Mina Clavero - Incluit\ProyectoFinal\.NET_ProyectoFinal-PoloTecnologicoMC\ProyectoFinal\bin\Debug\net6.0\appsettings.Eugenio.json
+C:\Users\Usuario\Desktop\C#\Polo Tecnológito de Mina Clavero - Incluit\ProyectoFinal\.NET_ProyectoFinal-PoloTecnologicoMC\ProyectoFinal\bin\Debug\net6.0\appsettings.Matias.Development.json
+C:\Users\Usuario\Desktop\C#\Polo Tecnológito de Mina Clavero - Incluit\ProyectoFinal\.NET_ProyectoFinal-PoloTecnologicoMC\ProyectoFinal\bin\Debug\net6.0\appsettings.Matias.json

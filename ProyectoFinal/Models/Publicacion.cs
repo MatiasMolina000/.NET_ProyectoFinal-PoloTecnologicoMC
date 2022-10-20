@@ -2,6 +2,7 @@
 {
     public class Publicacion
     {
+        public int Id { get; set; }
         public string Titulo { get; set; } = String.Empty;
         public string Subtitulo { get; set; } = String.Empty;
         public string Creador { get; set; } = String.Empty;

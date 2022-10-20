@@ -18,18 +18,21 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\about.html" />
+    <Content Include="Template\startbootstrap-clean-blog-gh-pages\about.html" />
+    <Content Include="Template\startbootstrap-clean-blog-gh-pages\contact.html" />
+    <Content Include="Template\startbootstrap-clean-blog-gh-pages\index.html" />
+    <Content Include="Template\startbootstrap-clean-blog-gh-pages\post.html" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="wwwroot\assets\favicon.ico" />
     <None Include="wwwroot\assets\img\about-bg.jpg" />
     <None Include="wwwroot\assets\img\contact-bg.jpg" />
     <None Include="wwwroot\assets\img\home-bg.jpg" />
     <None Include="wwwroot\assets\img\post-bg.jpg" />
     <None Include="wwwroot\assets\img\post-sample-image.jpg" />
-    <None Include="wwwroot\contact.html" />
     <None Include="wwwroot\css\styles.css" />
-    <None Include="wwwroot\index.html" />
     <None Include="wwwroot\js\scripts.js" />
-    <None Include="wwwroot\post.html" />
   </ItemGroup>
 
   <ItemGroup>

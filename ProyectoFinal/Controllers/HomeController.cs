@@ -8,20 +8,24 @@ namespace ProyectoFinal.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IConfiguration _configuration;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IConfiguration configuration)
         {
             _logger = logger;
+            _configuration = configuration;
         }
 
         public IActionResult Index()
         {
-            return View();
+            var rule = new PublicacionRule(_configuration);
+            var post = rule.GetPostHome();
+            return View(post);
         }
 
         public IActionResult Luky()
         {
-            var rule = new PublicacionRule();
+            var rule = new PublicacionRule(_configuration);
             var post = rule.GetOnePostRandom();
             return View(post);
         }

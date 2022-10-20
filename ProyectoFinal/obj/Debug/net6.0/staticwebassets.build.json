@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0iKAp0t36VNJPdPxcnCBy5FYaAfmAM+3yviSqDPOmtU=",
+  "Hash": "O/3lcIFUHg8w8pn8r3KFi33jhR+SMni0FpVhz/VnHJ0=",
   "Source": "ProyectoFinal",
   "BasePath": "_content/ProyectoFinal",
   "Mode": "Default",
@@ -49,57 +49,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Usuario\\Desktop\\C#\\Polo Tecnológito de Mina Clavero - Incluit\\ProyectoFinal\\.NET_ProyectoFinal-PoloTecnologicoMC\\ProyectoFinal\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProyectoFinal.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\C#\\Polo Tecnológito de Mina Clavero - Incluit\\ProyectoFinal\\.NET_ProyectoFinal-PoloTecnologicoMC\\ProyectoFinal\\wwwroot\\about.html",
-      "SourceId": "ProyectoFinal",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\C#\\Polo Tecnológito de Mina Clavero - Incluit\\ProyectoFinal\\.NET_ProyectoFinal-PoloTecnologicoMC\\ProyectoFinal\\wwwroot\\",
-      "BasePath": "_content/ProyectoFinal",
-      "RelativePath": "about.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\about.html"
-    },
-    {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\C#\\Polo Tecnológito de Mina Clavero - Incluit\\ProyectoFinal\\.NET_ProyectoFinal-PoloTecnologicoMC\\ProyectoFinal\\wwwroot\\contact.html",
-      "SourceId": "ProyectoFinal",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\C#\\Polo Tecnológito de Mina Clavero - Incluit\\ProyectoFinal\\.NET_ProyectoFinal-PoloTecnologicoMC\\ProyectoFinal\\wwwroot\\",
-      "BasePath": "_content/ProyectoFinal",
-      "RelativePath": "contact.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\contact.html"
-    },
-    {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\C#\\Polo Tecnológito de Mina Clavero - Incluit\\ProyectoFinal\\.NET_ProyectoFinal-PoloTecnologicoMC\\ProyectoFinal\\wwwroot\\index.html",
-      "SourceId": "ProyectoFinal",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\C#\\Polo Tecnológito de Mina Clavero - Incluit\\ProyectoFinal\\.NET_ProyectoFinal-PoloTecnologicoMC\\ProyectoFinal\\wwwroot\\",
-      "BasePath": "_content/ProyectoFinal",
-      "RelativePath": "index.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
       "Identity": "C:\\Users\\Usuario\\Desktop\\C#\\Polo Tecnológito de Mina Clavero - Incluit\\ProyectoFinal\\.NET_ProyectoFinal-PoloTecnologicoMC\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -1069,23 +1018,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\C#\\Polo Tecnológito de Mina Clavero - Incluit\\ProyectoFinal\\.NET_ProyectoFinal-PoloTecnologicoMC\\ProyectoFinal\\wwwroot\\post.html",
-      "SourceId": "ProyectoFinal",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\C#\\Polo Tecnológito de Mina Clavero - Incluit\\ProyectoFinal\\.NET_ProyectoFinal-PoloTecnologicoMC\\ProyectoFinal\\wwwroot\\",
-      "BasePath": "_content/ProyectoFinal",
-      "RelativePath": "post.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\post.html"
     }
   ]
 }

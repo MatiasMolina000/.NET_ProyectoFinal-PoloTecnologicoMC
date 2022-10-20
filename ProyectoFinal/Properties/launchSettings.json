@@ -1,21 +1,13 @@
-﻿{
-  "iisSettings": {
-    "windowsAuthentication": false,
-    "anonymousAuthentication": true,
-    "iisExpress": {
-      "applicationUrl": "http://localhost:60810",
-      "sslPort": 44391
-    }
-  },
+{
   "profiles": {
     "ProyectoFinal": {
       "commandName": "Project",
-      "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7278;http://localhost:5278",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7278;http://localhost:5278"
     },
     "IIS Express": {
       "commandName": "IISExpress",
@@ -23,6 +15,34 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
+    },
+    "RubenProfile": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_USER": "Ruben"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7278;http://localhost:5278"
+    },
+    "EugenioProfile": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_USER": "Eugenio"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7278;http://localhost:5278"
+    }
+  },
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:60810",
+      "sslPort": 44391
     }
   }
 }
