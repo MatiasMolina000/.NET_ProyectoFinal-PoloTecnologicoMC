@@ -23,14 +23,14 @@
             {
                 <!-- Post preview-->
                 <div class="post-preview">
-                    <a href="@(string.Format($"/Post/{item.Id}"))">
+                    <a asp-action="post" asp-controller="Home" asp-route-id=@item.Id>
                         <h2 class="post-title">@item.Titulo</h2>
                             <h3 class="post-subtitle">@item.Subtitulo</h3>
                     </a>
                     <p class="post-meta">
                         Posted by
-                            <a href="#!">@item.Creador</a>
-                            on @item.Creacion.ToLongTimeString();
+                        <a href="#!">@item.Creador</a>
+                        on @item.Creacion.ToLongTimeString();
                     </p>
                 </div>
                 <!-- Divider-->

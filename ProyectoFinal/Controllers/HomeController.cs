@@ -16,10 +16,18 @@ namespace ProyectoFinal.Controllers
             _configuration = configuration;
         }
 
+        public IActionResult Post(string id)
+        {
+            var rule = new PublicacionRule(_configuration);
+            var post = rule.GetPostById(int.Parse(id));
+            if (post == null)
+                return NotFound();
+            return View(post);
+        }
         public IActionResult Index()
         {
             var rule = new PublicacionRule(_configuration);
-            var post = rule.GetPostHome();
+            var post = rule.GetPostsHome();
             return View(post);
         }
 
