@@ -12,6 +12,7 @@ using System;
 using System.Data.SqlClient;
 using Dapper;
 using System.Runtime.CompilerServices;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace ProyectoFinal.Rules
 {
@@ -57,6 +58,24 @@ namespace ProyectoFinal.Rules
                 var query = "SELECT * FROM Publicacion WHERE Id = @id";
                 var post = connection.QueryFirstOrDefault<Publicacion>(query, new { id });
                 return post;
+            }
+        }
+
+        public void InsertPost(Publicacion data) {
+            var connectionString = _configuration.GetConnectionString("BlogDataBase");
+
+            using var connection = new SqlConnection(connectionString);
+            {
+                connection.Open();
+                var query = "INSERT INTO Publicacion (Titulo, Subtitulo, Creador, Cuerpo, Creacion, Imagen) VALUES (@titulo, @subtitulo, @creador, @cuerpo, @creacion, @imagen)";
+                var result = connection.Execute(query, new {
+                    titulo = data.Titulo,
+                    subtitulo = data.Subtitulo,
+                    creador = data.Creador,
+                    cuerpo = data.Cuerpo,
+                    creacion = data.Creacion,
+                    imagen = data.Imagen,
+                });
             }
         }
 

@@ -1,0 +1,45 @@
+﻿@model Publicacion
+
+<div class="row">
+        <div class="mb-3">
+            <label for="Dominio" class="form-label">Titulo</label>
+            <input asp-for="Titulo" type="text" class="form-control" id="Titulo" aria-describedy="Titulo"/>
+        @Html.ValidationMessageFor(x => x.Titulo,"",new {@class="text-danger"})  
+        </div>
+    </div>
+    <div class="row">
+        <div class="mb-3">
+            <label for="NumeroChasis" class="form-label">Subtitulo</label>
+            <input asp-for="Subtitulo" type="text" class="form-control" id="Subtitulo" aria-describedy="Subtitulo"/>
+        @Html.ValidationMessageFor(x => x.Subtitulo,"",new {@class="text-danger"})  
+        </div>
+    </div>
+    <div class="row">
+        <div class="mb-3">
+            <label for="NumeroChasis" class="form-label">Creador</label>
+            <input asp-for="Creador" type="text" class="form-control" id="Creador" aria-describedy="Creador"/>
+        @Html.ValidationMessageFor(x => x.Creador,"",new {@class="text-danger"})  
+        </div>
+    </div>
+    <div class="row">
+        <div class="mb-3">
+            <label for="NumeroChasis" class="form-label">Creacion</label>
+            <input asp-for="Creacion" type="date" class="form-control" id="Creacion" aria-describedy="Creacion"/>
+        @Html.ValidationMessageFor(x => x.Creacion,"",new {@class="text-danger"})  
+        </div>
+    </div>
+    <div class="row">
+        <div class="mb-3">
+            <label for="NumeroChasis" class="form-label">Imagen</label>
+            <input asp-for="Imagen" type="text" class="form-control" id="Imagen" aria-describedy="Imagen"/>
+        @Html.ValidationMessageFor(x => x.Imagen,"",new {@class="text-danger"})  
+        </div>
+    </div>
+    <div class="row">
+        <div class="mb-3">
+            <label for="Mensaje" class="form-label">Cuerpo</label>
+            <textarea asp-for="Cuerpo" type="text" class="form-control" id="Cuerpo" aria-describedy="Cuerpo">
+            </textarea>
+        @Html.ValidationMessageFor(x => x.Cuerpo,"",new {@class="text-danger"})  
+        </div>
+    </div>
